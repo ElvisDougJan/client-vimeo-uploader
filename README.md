@@ -1,7 +1,7 @@
 # client-vimeo-uploader
 
 ## Disponível no surge.sh
-[vimeo-uploader](uploader-vimeo.surge.sh)
+[vimeo-uploader](http://uploader-vimeo.surge.sh)
 
 ## Project setup
 ```
